@@ -1,1 +1,1 @@
-The Supermarket Management System is a Java-based application designed to streamline and manage various operations within a supermarket. This comprehensive system includes features for user authentication, product management, client management, staff management, transaction handling, and data persistence through file operations. Additionally, the project includes a graphical user interface (GUI) for better user interaction and experience.
+
